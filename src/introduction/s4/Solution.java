@@ -1,7 +1,7 @@
 package introduction.s4;
 
-/** https://www.hackerrank.com/challenges/java-stdin-stdout?h_r=next-challenge&h_v=zen
- *
+/**
+ * https://www.hackerrank.com/challenges/java-stdin-stdout?h_r=next-challenge&h_v=zen
  */
 
 import java.util.Scanner;
